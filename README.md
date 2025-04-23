@@ -2,8 +2,6 @@
 
 An interactive visualization tool to display technical skills by years of experience, proficiency, and recency of use.
 
-![3D Skills Visualization Preview](assets/skills_viz_preview.png)
-
 ## Overview
 
 This repository contains a 3D interactive visualization built with R and Plotly that helps professionals effectively communicate their technical competencies in a visual, engaging format. Unlike traditional skills listings in resumes, this approach provides context around:
@@ -22,7 +20,7 @@ This repository contains a 3D interactive visualization built with R and Plotly 
 
 ## Live Demo
 
-View the interactive visualization: [3D Skills Visualization](https://yourusername.github.io/skills-visualization/)
+View the interactive visualization: [3D Skills Visualization](https://redndgreen8.github.io)
 
 ## Installation
 
